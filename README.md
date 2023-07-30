@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **itamarperetzofficial@gmail.com**
 
-- ⚡ Fun fact **I'm a proud Zionist**
+- ⚡ Fun fact **I'm Enjoy Playing Chess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
