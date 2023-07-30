@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on 
+  A fully functional operating system using C and Assembly
+
+- 🌱 I’m currently learning
+  Advanced C Knowledge & Git
+  
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+- 
 <!--
 **Luppole/Luppole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
