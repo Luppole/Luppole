@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luppole&label=Profile%20views&color=0e75b6&style=flat" alt="luppole" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luppole" alt="luppole" /></a> </p>
-
 - 🔭 I’m currently working on **A fully functioning operating system using C & Assembly**
 
 - 🌱 I’m currently learning **Advanced C, Advanced Git,**
