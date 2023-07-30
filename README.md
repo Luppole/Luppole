@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on
+  
   A fully functional operating system using C and Assembly
 
 - 🌱 I’m currently learning
+  
   Advanced C Knowledge & Git
   
 - 💬 Ask me about ...
