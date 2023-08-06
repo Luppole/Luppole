@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Advanced C, Advanced Git,**
 
-- 💬 Ask me about **C#, Unity, Java**
+- 💬 Ask me about **Anything! I'd love to assist in various fields**
 
 - 📫 How to reach me **itamarperetzofficial@gmail.com**
 
-- ⚡ Fun fact **I'm Enjoy Playing Chess**
+- ⚡ Fun fact **I'm Enjoying Playing Chess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
