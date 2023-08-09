@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **itamarperetzofficial@gmail.com**
 
-- ⚡ Fun fact **I'm Enjoying Playing Chess**
+- ⚡ Fun fact **I Enjoy Playing Chess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
