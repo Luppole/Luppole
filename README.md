@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **A fully functioning operating system using C & Assembly**
 
-- 🌱 I’m currently learning **Advanced C, Ido Illouz Is Gay,**
+- 🌱 I’m currently learning **Advanced C, Flask,**
 
 - 💬 Ask me about **Anything! I'd love to assist in various fields**
 
