@@ -1,29 +1,53 @@
-<h1 align="center">Hi 👋, I'm Itamar</h1>
-<h3 align="center">A Software Developer From Israel</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luppole&label=Profile%20views&color=0e75b6&style=flat" alt="luppole" /> </p>
+[![twitter](https://img.shields.io/twitter/follow/_NoamRaz_?logo=twitter&style=for-the-badge)](https://twitter.com/_NoamRaz_) 
+### Hi! I'm Mango 👋
+![visitors](https://visitor-badge.glitch.me/badge?page_id=UrMango)
+<details>
+ <summary>✨ About me</summary>
+ <br/>
+I'm a game developer & programmer, video editor and graphic designer, and the creator of:
+</br>
+</br>
+  
+Programming for me is the freedom to make dreams a reality technologically.
+I love learning and experiencing new languages and technological tools.
+</details>
 
-- 🔭 I’m currently working on **A fully functioning operating system using C & Assembly**
+<details>
+<summary>🛠️ Languages and Tools</summary>
+ <br/>
+Some of the technological tools and languages i'm experiencing with are:
 
-- 🌱 I’m currently learning **Advanced C, Flask,**
+**Languages:**
+ - Assembly, C, C++, C#, JS, Python, SQL, Java and Lua.
 
-- 💬 Ask me about **Anything! I'd love to assist in various fields**
+**Tools:**
+ - Unity, Node.js, HTML & CSS, HTML5, Git, MongoDB and WireShark.
+</details>
+<br/>
 
-- 📫 How to reach me **itamarperetzofficial@gmail.com**
+📕 &nbsp;**My Latest Blog Posts**
+- [Passover Event in Sable!](https://sable.co.il/blog/post/6255d19a85b21c54e233b7a3)
+- [Sable's first post](https://sable.co.il/blog/post/61e7e228d3d99dd3b3a1982b)
 
-- ⚡ Fun fact **I Enjoy Playing Chess**
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/itamar peretz cohen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itamar peretz cohen" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/thatsitamar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thatsitamar" height="30" width="40" /></a>
-</p>
+![TopLanguage](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=UrMango&layout=compact&theme=dark)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+![trophy](https://github-profile-trophy.vercel.app/?username=UrMango&theme=onedark)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luppole&show_icons=true&locale=en&layout=compact" alt="luppole" /></p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=UrMango&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=00FF02)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luppole&show_icons=true&locale=en" alt="luppole" /></p>
+## The Featured Project of the month
+This is the section I'm featuring a project I'm proud of making or being involved in,
+and this month's project is.... 🥁🥁🥁🥁
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luppole&" alt="luppole" /></p>
+ **Mango Guru NLP AI - by UrMango!**
+ 
+ In the past few months, I learned a lot about AI and am building a Sentiment Analysis Neural Network from scratch (No libraries - only math ones).
+ This week, I took a little break and tried to make an AI using libraries, to see how it goes. I learned `tensorflow` and made a simple chatbot with it, called the Mango Guru AI - because I used it in a [Cyber Challenges Website I built.](https://mangosecrets.com)
+
+ This project didn't take much to make and was fairly easy, though I'm still proud of making it and gaining more experience with AI and industrial tools.
+
+[![GURU](https://github-readme-stats.vercel.app/api/pin/?username=UrMango&repo=mangoguru-ai&theme=dark)](https://github.com/UrMango/mangoguru-ai)
+
