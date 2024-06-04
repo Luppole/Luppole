@@ -9,6 +9,7 @@
 
 ## **The tools I usually use...**
 > - Git
+> - NySQL / SQLite
 > - MongoDB
 > -  WireShark
 > -  ghidra
@@ -19,11 +20,11 @@
 
 ## **Statistics regarding my account...**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luppole&size_weight=0.15&count_weight=0.35&hide=shaderlab,hlsl,cpp,gap&langs_count=8&layout=compact&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luppole&size_weight=0.15&count_weight=0.35&hide=shaderlab,hlsl,cpp,gap&langs_count=8&layout=compact&theme=highcontrast)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luppole&hide=contribs,prs&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luppole&hide=contribs,prs&theme=highcontrast)
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Luppole&theme=cobalt)
+![trophy](https://github-profile-trophy.vercel.app/?username=Luppole&theme=highcontrast)
 
