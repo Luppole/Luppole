@@ -6,21 +6,9 @@
 </details>
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=luppole" />
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luppole&size_weight=0.15&count_weight=0.35&hide=shaderlab,hlsl,cpp,gap&langs_count=8&layout=compact)
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luppole&size_weight=0.15&count_weight=0.35&hide=shaderlab,hlsl,cpp,gap&langs_count=8&layout=compact" />
-</a>
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Luppole&&date_format=M%20j%5B%2C%20Y%5D&fire=00FF02" />
-</a>
-
-
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luppole&hide=contribs,prs)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Luppole)
 
