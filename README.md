@@ -21,5 +21,6 @@
 
 
 
-(https://github-profile-trophy.vercel.app/?username=Luppole)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Luppole)
 
