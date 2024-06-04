@@ -11,4 +11,5 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Luppole&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=00FF02)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luppole)](https://github.com/anuraghazra/github-readme-stats)
 
