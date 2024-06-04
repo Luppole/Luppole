@@ -7,7 +7,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Luppole)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Luppole&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=00FF02)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Luppole&&date_format=M%20j%5B%2C%20Y%5D&fire=00FF02)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luppole&size_weight=0.15&count_weight=0.45&hide=shaderlab,hlsl,cpp,gap&langs_count=8)
 
