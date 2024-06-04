@@ -13,4 +13,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luppole&show_icons=true)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luppole)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Luppole)](https://github.com/anuraghazra/github-readme-stats)
