@@ -11,7 +11,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Luppole&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=00FF02)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luppole&size_weight=0.2&count_weight=0.5&hide=javascript,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luppole&size_weight=0.2&count_weight=0.5&hide=shaderlab,hlsl)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luppole&show_icons=true)
 
