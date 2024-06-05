@@ -9,7 +9,8 @@
 
 ## **The tools I usually use...**
 > - Git
-> - NySQL / SQLite
+> - MySQL / SQLite
+> - Npm
 > - MongoDB
 > -  WireShark
 > -  ghidra
