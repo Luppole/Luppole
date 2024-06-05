@@ -1,6 +1,6 @@
 ## A bit about myself...
 
-> Hi! I'm Luppole. My real name is Itamar and I'm a SWE (Software Engineer) from Israel 🇮🇱
+> Hi! I'm Luppole. My real name is *Itamar* and I'm a SWE (Software Engineer) from Israel 🇮🇱
 > One of my hobbies is information security related topics, especially ones related to spotting & exploiting system / file weaknesses (pwning).
 > You can find me in https://pwnable.kr/play.php by the name "Luppole".
 > Personally, I prefer to code in high-level languages, such as Python, C# JavaScript etc. But I also appreciate the beauty of coding in low-level languages such as C and ASM and often find it very exciting.
@@ -26,9 +26,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luppole&hide=contribs,prs&theme=ayu-mirage)
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Luppole&theme=dark)
+![trophy](https://github-profile-trophy.vercel.app/?username=Luppole&theme=onedark)
 
-## **Links (Where) To (Can Find) Me...**
+## **Link(s) (Where) You (Can Find) Me...**
 <li> Github (for the special ones among us): https://github.com/Luppole </li>
 <li> Github (for the special ones among us): https://github.com/Luppole </li>
 <li> Linkedin: https://www.linkedin.com/in/itamar-p-52a5b1256/ </li>
