@@ -36,6 +36,5 @@
 
 ## **Link(s) (Where) You (Can Find) Me...**
 <li> Github (for the special ones among us): https://github.com/Luppole </li> 🔗
-<li> Github (for the special ones among us): https://github.com/Luppole </li> 🔗
 <li> Linkedin: https://www.linkedin.com/in/itamar-p-52a5b1256/ </li> 🔗
 <li> Discord: "luppole" </li> 🔗
