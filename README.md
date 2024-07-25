@@ -12,18 +12,6 @@
 > 
 > Feel free to reach me out for projects / job offerings, or even if you have a question about my projects ❓
 
-## ⚙️ | The Tools I Usually Use...
-> - Git
-> - MySQL / SQLite
-> - Npm
-> - MongoDB
-> -  WireShark
-> -  ghidra
-> -  Android Studio
-> -   VSC / VS
-> -   JetBrains Tools
-> -   Cisco Packet Tracer
-
 ## 📊 | Statistics Regarding My Account...
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luppole&size_weight=0.15&count_weight=0.20&hide=shaderlab,hlsl,cpp,gap&langs_count=8&layout=compact&theme=ayu-mirage)
