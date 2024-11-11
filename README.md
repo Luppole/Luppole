@@ -8,7 +8,7 @@
 > 
 > Personally, I prefer to code in high-level languages, such as Python, C# JavaScript etc. But I also appreciate the beauty of coding in low-level languages such as C and ASM and often find it very exciting ⚡
 > 
-> I currently work for Sable, a game development studio, in the role of a Unity Developer 👾
+> I'm currently unemployed, and not looking for any new positions!
 > 
 > Feel free to reach me out for projects / job offerings, or even if you have a question about my projects ❓
 
