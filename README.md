@@ -10,7 +10,7 @@
 > 
 > I'm currently unemployed, and not looking for any new positions!
 > 
-> Feel free to reach me out for projects / job offerings, or even if you have a question about my projects ❓
+> Feel free to reach me out for project ideas / collabs, or even if you have a question about my projects ❓
 
 ## 📊 | Statistics Regarding My Account...
 
