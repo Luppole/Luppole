@@ -1,14 +1,14 @@
 ## 👨 | A Bit About Myself... 
 
-> Hi! I'm Luppole. My real name is *Itamar* and I'm a SWE (Software Engineer) from Israel 🇮🇱
-> 
-> One of my hobbies is information security related topics, especially ones related to spotting & exploiting system / file weaknesses (pwning) 🐛
+> Hi! I'm Luppole. My real name is *Itamar* and I'm a SWE (Software Engineer) based in Israel 🇮🇱
+>
+> I Worked For Those People On These Dates:
+>   Remain Ltd. - Oct. 2023 - Oct. 2024 (Software Engineer)
+>   Ministry Of Education - June 2022 - Aug. 2022 : June 2023 - Aug. 2023 : June 2024 - Aug. 2024 (IT)
 > 
 > You can find me in pwanble.country websites by the name "Luppole" 🔎
 > 
 > Personally, I prefer to code in high-level languages, such as Python, C# JavaScript etc. But I also appreciate the beauty of coding in low-level languages such as C and ASM and often find it very exciting ⚡
-> 
-> I'm currently unemployed, and not looking for any new positions!
 > 
 > Feel free to reach me out for project ideas / collabs, or even if you have a question about my projects ❓
 
