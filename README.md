@@ -8,11 +8,11 @@
 > 
 > You can find me in pwanble.country websites by the name "Luppole" 🔎
 > 
-> Personally, I prefer to code in high-level languages, such as Python, C# JavaScript etc. But I also appreciate the beauty of coding in low-level languages such as C and ASM and often find it very exciting ⚡
+> Python, C#, Java, JavaScript are my mothertounge languages :)
 > 
 > Feel free to reach me out for project ideas / collabs, or even if you have a question about my projects ❓
 
-## 📊 | Statistics Regarding My Account:
+## 📊 | Statistics For The Nerds In The Crowd:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luppole&size_weight=0.15&count_weight=0.20&hide=shaderlab,hlsl,cpp,gap&langs_count=8&layout=compact&theme=ayu-mirage)
 
