@@ -18,8 +18,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luppole&hide=contribs,prs&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=weezard12&hide=contribs,prs&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Luppole&theme=onedark)
 
