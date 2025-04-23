@@ -3,6 +3,8 @@
 > Hi! I'm Luppole. My real name is *Itamar* and I'm a SWE (Software Engineer) based in Israel 🇮🇱
 >
 > I Worked For Those People On These Dates:
+>
+> - HEDGIFY AI - Jan. 2024 - Present
 > - Remain Ltd. - Oct. 2023 - Oct. 2024 (Software Engineer)
 > - Ministry Of Education - June 2022 - Aug. 2022 : June 2023 - Aug. 2023 : June 2024 - Aug. 2024 (IT)
 > 
