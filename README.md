@@ -12,7 +12,7 @@
 > 
 > Python, C#, Java, JavaScript are my mothertounge languages :)
 > 
-> Feel free to reach me out for project ideas / collabs, or even if you have a question about my projects ❓
+> Feel free to reach out to me for project ideas / collabs, or even if you have a question about my projects ❓
 
 ## 📊 | Statistics For The Nerds In The Crowd:
 
