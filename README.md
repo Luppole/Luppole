@@ -17,7 +17,7 @@
 - 🏛️ Former IT Intern @ Ministry of Education (Israel)
 - 🎯 Focused on backend systems, cloud architecture, and clean code practices
 - 👶 Started coding at **13**, professional developer since **16**
-- 🧠 Autodidact | Automation nerd | Backend Viber Coder (Don't Tell Anyone)
+- 🧠 Autodidact | Automation nerd | Backend Vibe Coder (Don't Tell Anyone)
 
 ---
 
