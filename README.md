@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Itamar (aka Luppole)</h1>
 <h3 align="center">
-  Software Engineer @ <a href="https://hedgify.ai/" target="_blank">HEDGIFY AI</a> • Creator of <a href="https://itamarpc.dev/" target="_blank">itamarpc.dev</a> • Backend Specialist
+  Software Engineer @ <a href="https://hedgify.ai/" target="_blank">HEDGIFY AI</a> • Check My Website: <a href="https://itamarpc.dev/" target="_blank">itamarpc.dev</a> • Backend Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&color=00FF00&lines=Currently+Working+at+HEDGIFY+AI;Software+Engineer+💻;Backend+Developer+🛠️;Full+Stack+Explorer+🚀;Always+Learning+📚" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&color=00FF00&lines=Working+at+HEDGIFY+AI;Software+Developer+💻;Backend+Developer+🛠️;Full+Stack+Explorer+🚀;Always+Learning+📚" alt="Typing SVG" />
 </p>
 
 ---
