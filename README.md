@@ -1,21 +1,23 @@
 <h1 align="center">Hi 👋, I'm Itamar (aka Luppole)</h1>
-<h3 align="center">A passionate Software Engineer from Israel 🇮🇱 | Building cool things at <a href="https://itamarpc.dev/" target="_blank">itamarpc.dev</a></h3>
+<h3 align="center">
+  Software Engineer @ <a href="https://hedgify.ai/" target="_blank">HEDGIFY AI</a> • Creator of <a href="https://itamarpc.dev/" target="_blank">itamarpc.dev</a> • Backend Specialist
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&color=00FF00&lines=Software+Engineer+💻;Backend+Developer+🛠️;Full+Stack+Explorer+🚀;Cloud+Enthusiast+☁️;Always+Learning+📚" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&color=00FF00&lines=Currently+Working+at+HEDGIFY+AI;Software+Engineer+💻;Backend+Developer+🛠️;Full+Stack+Explorer+🚀;Always+Learning+📚" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Software Developer at **HEDGIFY AI**
-- 💼 Ex-Backend Developer at **Remain Ltd.**
-- 🏛️ Former IT Intern at **Ministry of Education (Israel)**
-- 🌐 Building & writing at [**itamarpc.dev**](https://itamarpc.dev/)
-- 🎯 Focused on backend systems, scalable architectures & clean code
-- 👶 Started coding at **13**, working professionally since **16**
-- 🧠 Lifelong learner, automation nerd, and clean code advocate
+- 🔥 Currently a **Software Developer at [HEDGIFY AI](https://hedgify.ai/)** — building scalable AI prediction systems
+- 🌐 Building & sharing cool stuff at [**itamarpc.dev**](https://itamarpc.dev/)
+- 💼 Former **C# Backend Developer** @ Remain Ltd.
+- 🏛️ Former IT Intern @ Ministry of Education (Israel)
+- 🎯 Focused on backend systems, cloud architecture, and clean code practices
+- 👶 Started coding at **13**, professional developer since **16**
+- 🧠 Lifelong learner | Automation nerd | Backend wizard
 
 ---
 
@@ -35,11 +37,11 @@
 
 ## 🧩 My Projects
 
-- 🧠 **[itamarpc.dev](https://itamarpc.dev/)** — Personal website + blog — built with React & Tailwind  
-- 📈 **AI Market Predictor** — Enhancing AI models for smarter financial predictions @ Hedgify AI  
-- 📱 **Fitness Tracker App** — (in development) Mobile app built with React Native to track fitness goals  
-- 🛠 **Automation Scripts** — CLI tools in Python for automating boring stuff  
-- 💬 Always hacking on side projects & exploring new stacks!
+- 🧠 [**itamarpc.dev**](https://itamarpc.dev/) — Personal portfolio website (React, Tailwind, Vercel)
+- 📈 **AI Market Predictor** — Developing prediction models at HEDGIFY AI
+- 📱 **Fitness Tracker App** — Mobile app built with React Native (in progress)
+- 🛠 **Automation Scripts** — Python scripts to automate boring tasks
+- 💬 Always hacking on side-projects, learning, and shipping!
 
 ---
 
@@ -47,18 +49,18 @@
 
 | Company | Role | Dates |
 |:--------|:-----|:------|
-| **HEDGIFY AI** | Software Developer | Jan 2024 – Present |
+| **HEDGIFY AI** | Software Developer (Full-time) | Jan 2024 – Present |
 | **Remain Ltd.** | C# Backend Developer | Oct 2023 – Oct 2024 |
-| **Ministry of Education** | IT Intern | Summers 2022, 2023, 2024 |
+| **Ministry of Education (Israel)** | IT Intern | Summers 2022, 2023, 2024 |
 
 ---
 
 ## 📚 Currently Working On
 
-- 🤖 Building better AI-driven prediction models
-- 🔥 Backend development at **HEDGIFY AI**
-- 📱 Mobile app development with **React Native**
-- 🧩 Surviving Razor script debugging marathons
+- 🤖 Optimizing AI-driven prediction models @ HEDGIFY AI
+- 🔥 Scalable backend systems for production environments
+- 📱 Mobile app development with React Native
+- 🧩 Razor script debugging and platform integrations
 
 ---
 
@@ -68,7 +70,7 @@
 - 👨‍💻 First paid dev job at **16**!
 - 🏋️ Gym rat when not coding
 - 🎵 Music fuels the code
-- ❌ No DevOps, ever.
+- ❌ No DevOps. Ever.
 
 ---
 
