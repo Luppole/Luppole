@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-- 🔥 Currently a **Software Developer at [HEDGIFY AI](https://hedgify.ai/)** — building scalable AI prediction systems
+- 🔥 Currently a **Software Developer at [HEDGIFY AI](https://hedgify.ai/)**
 - 🌐 Building & sharing cool stuff at [**itamarpc.dev**](https://itamarpc.dev/)
 - 💼 Former **C# Backend Developer** @ Remain Ltd.
 - 🏛️ Former IT Intern @ Ministry of Education (Israel)
@@ -57,7 +57,7 @@
 
 ## 📚 Currently Working On
 
-- 🤖 Optimizing AI-driven prediction models @ HEDGIFY AI
+- 🤖 Remote Software Developer @ HEDGIFY AI
 - 🔥 Scalable backend systems for production environments
 - 📱 Mobile app development with React Native
 - 🧩 Razor script debugging and platform integrations
@@ -107,13 +107,11 @@
   <a href="https://discord.com/users/luppole" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=luppole&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
----
 
 <p align="center">
   ✨ Keep Building | Keep Learning | Keep Inspiring ✨
