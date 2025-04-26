@@ -17,7 +17,7 @@
 - 🏛️ Former IT Intern @ Ministry of Education (Israel)
 - 🎯 Focused on backend systems, cloud architecture, and clean code practices
 - 👶 Started coding at **13**, professional developer since **16**
-- 🧠 Lifelong learner | Automation nerd | Backend wizard
+- 🧠 Autodidact | Automation nerd | Backend Viber Coder (Don't Tell Anyone)
 
 ---
 
@@ -38,8 +38,7 @@
 ## 🧩 My Projects
 
 - 🧠 [**itamarpc.dev**](https://itamarpc.dev/) — Personal portfolio website (React, Tailwind, Vercel)
-- 📈 **AI Market Predictor** — Developing prediction models at HEDGIFY AI
-- 📱 **Fitness Tracker App** — Mobile app built with React Native (in progress)
+- 📱 **Israeli News Aggregator** — Executable app built with Python Using Web Scraping (in progress)
 - 🛠 **Automation Scripts** — Python scripts to automate boring tasks
 - 💬 Always hacking on side-projects, learning, and shipping!
 
@@ -49,7 +48,7 @@
 
 | Company | Role | Dates |
 |:--------|:-----|:------|
-| **HEDGIFY AI** | Software Developer (Full-time) | Jan 2024 – Present |
+| **HEDGIFY AI** | Software Developer (Full-time : Remote) | Jan 2024 – Present |
 | **Remain Ltd.** | C# Backend Developer | Oct 2023 – Oct 2024 |
 | **Ministry of Education (Israel)** | IT Intern | Summers 2022, 2023, 2024 |
 
@@ -62,14 +61,12 @@
 - 📱 Mobile app development with React Native
 - 🧩 Razor script debugging and platform integrations
 
----
-
 ## 🎯 Fun Facts
 
 - 🚀 Started coding at **13 years old**!
 - 👨‍💻 First paid dev job at **16**!
 - 🏋️ Gym rat when not coding
-- 🎵 Music fuels the code
+- 🎵 Metal fuels the code
 - ❌ No DevOps. Ever.
 
 ---
@@ -88,8 +85,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luppole&layout=compact&theme=tokyonight&hide=shaderlab,hlsl,cpp,gap&langs_count=8" alt="Top Languages" />
 </p>
 
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -107,13 +102,9 @@
   <a href="https://discord.com/users/luppole" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=luppole&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
----
 
 <p align="center">
   ✨ Keep Building | Keep Learning | Keep Inspiring ✨
