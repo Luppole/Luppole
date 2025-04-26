@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Itamar (aka Luppole)</h1>
-<h3 align="center">A passionate Software Engineer from Israel 🇮🇱</h3>
+<h3 align="center">A passionate Software Engineer from Israel 🇮🇱 | Building cool things at <a href="https://itamarpc.dev/" target="_blank">itamarpc.dev</a></h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&color=00FF00&lines=Software+Engineer+💻;Backend+Developer+🛠️;Full+Stack+Explorer+🚀;Cloud+Enthusiast+☁️;Always+Learning+📚" alt="Typing SVG" />
@@ -12,23 +12,34 @@
 - 🔭 Software Developer at **HEDGIFY AI**
 - 💼 Ex-Backend Developer at **Remain Ltd.**
 - 🏛️ Former IT Intern at **Ministry of Education (Israel)**
+- 🌐 Building & writing at [**itamarpc.dev**](https://itamarpc.dev/)
 - 🎯 Focused on backend systems, scalable architectures & clean code
 - 👶 Started coding at **13**, working professionally since **16**
-- 🧠 Lifelong learner, automation nerd, and a huge clean code fan
+- 🧠 Lifelong learner, automation nerd, and clean code advocate
 
 ---
 
-## 👨‍💻 Tech Stack
+## 🛠 Tech Stack
 
-### 🧠 Languages
+### 👨‍💻 Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cs,c,ts,js,html,css" />
 </p>
 
 ### ⚡ Frameworks, Databases & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,firebase,mysql,postgres,androidstudio,git,github,gitlab,vscode" />
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,react,firebase,mysql,postgres,androidstudio,git,github,gitlab,vscode" />
 </p>
+
+---
+
+## 🧩 My Projects
+
+- 🧠 **[itamarpc.dev](https://itamarpc.dev/)** — Personal website + blog — built with React & Tailwind  
+- 📈 **AI Market Predictor** — Enhancing AI models for smarter financial predictions @ Hedgify AI  
+- 📱 **Fitness Tracker App** — (in development) Mobile app built with React Native to track fitness goals  
+- 🛠 **Automation Scripts** — CLI tools in Python for automating boring stuff  
+- 💬 Always hacking on side projects & exploring new stacks!
 
 ---
 
@@ -88,6 +99,7 @@
 ## 🔗 Connect With Me!
 
 <p align="center">
+  <a href="https://itamarpc.dev/" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
   <a href="https://github.com/luppole" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/itamar-p-52a5b1256/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://discord.com/users/luppole" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
