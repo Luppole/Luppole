@@ -1,48 +1,86 @@
 <h1 align="center">Hi 👋, I'm Itamar (aka Luppole)</h1>
 <h3 align="center">A passionate Software Engineer from Israel 🇮🇱</h3>
 
----
-
-## 🧑‍💻 About Me
-
-- 🔭 I’m currently working at **HEDGIFY AI** *(Jan 2024 – Present)*  
-- 💼 Previously at **Remain Ltd.** *(Oct 2023 – Oct 2024)*  
-- 🏛️ Internship at **Ministry Of Education**:  
-  *June–Aug 2022*, *June–Aug 2023*, *June–Aug 2024* (IT Department)
-  
-- 🌍 Find me around the web as **"Luppole"** 🔎
-- 🛠️ I speak these languages natively: **Python**, **C#**, **Java**, **JavaScript**
-
-<br />
-
-## 🚀 Tech Stack
-
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp" />
-  <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java" />
-  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Pythonista+🐍;C%23+Enthusiast+⚙️;Java+Coffee+Lover+☕;JS+Web+Crafter+💻;Open+to+collaborations+%F0%9F%92%AA" alt="Typing SVG" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 👨‍💻 About Me
+
+- 🔭 Currently working at **HEDGIFY AI** *(Jan 2024 – Present)*
+- 💼 Previously at **Remain Ltd.** *(Oct 2023 – Oct 2024)*
+- 🏛️ Interned at **Ministry Of Education** (Summers 2022, 2023, 2024)
+- 🎯 Focused on building scalable and intelligent software systems
+- ✨ Find me across the web under the alias **"Luppole"** 🔎
+- 🧠 Always learning, always building.
+
+---
+
+## 🛠️ Skills
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luppole&show_icons=true&theme=ayu-mirage&hide=contribs,prs" alt="Luppole's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luppole&layout=compact&theme=ayu-mirage&hide=shaderlab,hlsl,cpp,gap&langs_count=8" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luppole&theme=onedark" alt="GitHub Trophies" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
 ---
 
-## 🔗 Connect With Me
+## 🧰 Tools I Use
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+---
+
+## 📚 Currently Working On
+
+- Improving AI-driven prediction models 🧠
+- Developing mobile apps with **React Native** 📱
+- Deep diving into **Cloud Architecture** ☁️ (AWS/GCP)
+
+---
+
+## 🧩 Fun Facts
+
+- 🌟 I started coding at 15!
+- 🚴‍♂️ In my free time, you’ll find me cycling, hiking, or gaming.
+- 💬 I love mentoring junior developers.
+- 🎶 Music + Code = Perfect combo.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luppole&show_icons=true&theme=ayu-mirage&hide=contribs,prs" alt="Luppole's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luppole&theme=ayu-mirage" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luppole&layout=compact&theme=ayu-mirage&hide=shaderlab,hlsl,cpp,gap&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=luppole&theme=onedark" alt="Trophies" />
+</p>
+
+---
+
+## 🧭 Let's Connect!
 
 <p align="center">
   <a href="https://github.com/luppole" target="_blank">
@@ -58,4 +96,12 @@
 
 ---
 
-> _✨ Feel free to reach out for collaborations, side projects, or just to chat about coding! ✨_
+## 📝 Quote to Live By
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=luppole&label=Profile%20views&color=0e75b6&style=flat" alt="luppole" />
+</p>
