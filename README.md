@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from Israel 🇮🇱</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Pythonista+🐍;C%23+Enthusiast+⚙️;Java+Coffee+Lover+☕;JS+Web+Crafter+💻;Open+to+collaborations+%F0%9F%92%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Pythonista+🐍;C%23+Enthusiast+⚙️;Java+Coffee+Lover+☕;JS+Web+Crafter+💻;Always+Learning+🚀" alt="Typing SVG" />
 </p>
 
 ---
@@ -15,18 +15,27 @@
 - 🎯 Focused on building scalable and intelligent software systems
 - ✨ Find me across the web under the alias **"Luppole"** 🔎
 - 🧠 Always learning, always building.
+- 👶 Started coding at **13 years old**
+- 👨‍💻 Landed my **first job at 16**!
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
 </p>
 
 ---
@@ -53,10 +62,11 @@
 
 ## 🧩 Fun Facts
 
-- 🌟 I started coding at 15!
-- 🚴‍♂️ In my free time, you’ll find me cycling, hiking, or gaming.
-- 💬 I love mentoring junior developers.
-- 🎶 Music + Code = Perfect combo.
+- 🌟 Started coding at **13 years old**!
+- 👨‍💻 First job at **16 years old**.
+- 🚴‍♂️ Outside of coding, I love cycling, hiking, and gaming.
+- 💬 Big fan of mentoring and helping junior developers.
+- 🎶 Music fuels my coding sessions.
 
 ---
 
@@ -80,7 +90,7 @@
 
 ---
 
-## 🧭 Let's Connect!
+## 🔗 Let's Connect!
 
 <p align="center">
   <a href="https://github.com/luppole" target="_blank">
@@ -93,12 +103,6 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
-
----
-
-## 📝 Quote to Live By
-
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 ---
 
