@@ -28,7 +28,7 @@
   <img src="https://skillicons.dev/icons?i=python,java,cs,c,ts,js,html,css" />
 </p>
 
-### ⚡ Frameworks, Databases & Tools
+### ⚡ Frameworks & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dotnet,nodejs,react,firebase,mysql,postgres,androidstudio,git,github,gitlab,vscode" />
 </p>
