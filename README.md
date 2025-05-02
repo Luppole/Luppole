@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&color=00FF00&lines=Working+at+HEDGIFY+AI;Software+Developer+💻;Backend+Developer+🛠️;Full+Stack+Explorer+🚀;Always+Learning+📚" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&color=E6E8E6&lines=Software+Developer+💻;Backend+Developer+🛠️;Full+Stack+Explorer+🚀;Always+Learning+📚" alt="Typing SVG" />
 </p>
 
 ---
@@ -15,7 +15,7 @@
 - 🌐 Building & sharing cool stuff at [**itamarpc.dev**](https://itamarpc.dev/)
 - 💼 Former **C# Backend Developer** @ Remain Ltd.
 - 🏛️ Former IT Intern @ Ministry of Education (Israel)
-- 🎯 Focused on backend systems, cloud architecture, and clean code practices
+- 🎯 Focused on backend systems, system architecture, and clean code practices
 - 👶 Started coding at **13**, professional developer since **16**
 - 🧠 Autodidact | Automation nerd | Backend Vibe Coder (Don't Tell Anyone)
 
