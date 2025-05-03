@@ -50,7 +50,7 @@
 |:--------|:-----|:------|
 | **HEDGIFY AI** | Software Developer (Full-time : Remote) | Jan 2024 – Present |
 | **Remain Ltd.** | C# Backend Developer | Oct 2023 – Oct 2024 |
-| **Ministry of Education (Israel)** | IT Intern | Summers 2022, 2023, 2024 |
+| **Ministry of Education (Israel)** | IT Intern | Summers of 2022, 2023, 2024 |
 
 ---
 
