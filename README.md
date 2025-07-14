@@ -37,7 +37,7 @@
 
 ## 🧩 My Projects
 
-- 🧠 [**itamarpc.dev**](https://itamarpc.dev/) — Personal portfolio website (React, Tailwind, Vercel)
+
 - 📱 **Israeli News Aggregator** — Executable app built with Python Using Web Scraping (in progress)
 - 🛠 **Automation Scripts** — Python scripts to automate boring tasks
 - 💬 Always hacking on side-projects, learning, and shipping!
