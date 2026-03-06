@@ -1,6 +1,6 @@
 <h1 align="center">Luppole</h1>
 <h3 align="center">
-  Software Engineer @ <a href="https://hedgify.ai/" target="_blank">HEDGIFY AI</a> • Check My Website: <a href="https://itamarpc.dev/" target="_blank">itamarpc.dev</a> • Backend Developer
+  Software Developer • Backend Developer
 </h3>
 
 <p align="center">
