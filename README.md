@@ -7,7 +7,7 @@
 
 ### 👨‍💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cs,c,ts,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,cs,java,c,ts,js,html,css,bash" />
 </p>
 
 ### ⚡ Frameworks & Tools
