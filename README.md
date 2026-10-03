@@ -9,16 +9,6 @@
 
 ---
 
-## 🚀 About Me
-
-- 🌐 Building & sharing cool stuff at [**itamarpc.dev**](https://itamarpc.dev/)
-- 💼 Former **C# Backend Developer** @ Remain Ltd.
-- 🏛️ Former IT Intern @ Ministry of Education (Israel)
-- 🎯 Focused on backend systems, system architecture, and clean code practices
-- 👶 Started coding at **13**, professional developer since **16**
-- 🧠 Autodidact | Automation nerd | Backend Vibe Coder (Don't Tell Anyone)
-
----
 
 ## 🛠 Tech Stack
 
@@ -31,44 +21,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dotnet,nodejs,react,firebase,mysql,postgres,androidstudio,git,github,gitlab,vscode" />
 </p>
-
----
-
-## 🧩 My Projects
-
-
-- 📱 **Israeli News Aggregator** — Executable app built with Python Using Web Scraping (in progress)
-- 🛠 **Automation Scripts** — Python scripts to automate boring tasks
-- 💬 Always hacking on side-projects, learning, and shipping!
-
----
-
-## 🧑‍💼 Work Experience
-
-| Company | Role | Dates |
-|:--------|:-----|:------|
-| **HEDGIFY AI** | Software Developer (Full-time : Remote) | Jan 2024 – Present |
-| **Remain Ltd.** | C# Backend Developer | Oct 2023 – Oct 2024 |
-| **Ministry of Education (Israel)** | IT Intern | Summers of 2022, 2023, 2024 |
-
----
-
-## 📚 Currently Working On
-
-- 🤖 Remote Software Developer @ HEDGIFY AI
-- 🔥 Scalable backend systems for production environments
-- 📱 Mobile app development with React Native
-- 🧩 Razor script debugging and platform integrations
-
-## 🎯 Fun Facts
-
-- 🚀 Started coding at **13 years old**!
-- 👨‍💻 First paid dev job at **16**!
-- 🏋️ Gym rat when not coding
-- 🎵 Metal fuels the code
-- ❌ No DevOps. Ever.
-
----
 
 ## 📈 GitHub Stats
 
