@@ -11,7 +11,6 @@
 
 ## 🚀 About Me
 
-- 🔥 Currently a **Software Developer at [HEDGIFY AI](https://hedgify.ai/)**
 - 🌐 Building & sharing cool stuff at [**itamarpc.dev**](https://itamarpc.dev/)
 - 💼 Former **C# Backend Developer** @ Remain Ltd.
 - 🏛️ Former IT Intern @ Ministry of Education (Israel)
