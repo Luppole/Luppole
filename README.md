@@ -3,13 +3,6 @@
   Software Developer • Backend Developer
 </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&color=E6E8E6&lines=Software+Developer+💻;Backend+Developer+🛠️;Full+Stack+Explorer+🚀;Always+Learning+📚" alt="Typing SVG" />
-</p>
-
----
-
-
 ## 🛠 Tech Stack
 
 ### 👨‍💻 Languages
