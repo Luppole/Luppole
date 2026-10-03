@@ -36,12 +36,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luppole&layout=compact&theme=tokyonight&hide=shaderlab,hlsl,cpp,gap&langs_count=8" alt="Top Languages" />
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luppole&theme=darkhub&row=1&margin-w=20" alt="GitHub Trophies" />
 </p>
-
   <a href="https://github.com/luppole" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/itamar-p-52a5b1256/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://discord.com/users/luppole" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
